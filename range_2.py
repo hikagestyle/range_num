@@ -4,7 +4,7 @@ dir_name = "range_"
 output = "output_2.txt"
 
 text = "id"
-r = range(1,50001)
+r = range(1,3001)
 name = "page_"
 
 os.makedirs(dir_name, exist_ok=True)
